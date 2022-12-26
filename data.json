@@ -1,0 +1,18 @@
+{
+    "target_person":{
+        "target": "Mom",
+        "age": "45",
+        "hobbies": "Reading, cooking, gardening",
+        "budget": 400,
+        "special_day": "Christmas",
+        "gift_type": "Fun",
+        "target_description": "My mom is really passionate about horror stories and cakes. She really loves flowers and roses."
+    },
+    "outputResponseFormat": "json",
+    "jsonFiels":{
+        "expectedPrice": "number",
+        "giftName": "string",
+        "giftDescription": "string",
+        "accuracy": "number"
+    }
+}
